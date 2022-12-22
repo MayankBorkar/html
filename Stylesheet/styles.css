@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    background-color: darkgrey;
+    color: indigo;
+    border: 2px solid black;
+    padding: 5px;
+    height: 40px;
+    width: 30%;
+    margin: 10px;
+}
+
+p {
+    background-color: chartreuse;
+    color: darkviolet;
+    border: 2px solid black;
+    padding: 5px;
+    height: 30px;
+    width: 30%;
+    margin: 10px;
+}
